@@ -1,0 +1,6 @@
+table, column, ref_table, ref_column
+cars_data,id, car_names, model
+car_names, model, model_list, model_id
+model_list, model_id, car_makers, id
+
+
